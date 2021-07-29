@@ -15,7 +15,7 @@ import csv
 
 
 # constants
-TECH_LIST = ['Talend', 'Informatica', 'Datastage', 'Redshift', 'ODI', 'ETL', 'DWH', 'data warehouse']
+TECH_LIST = ['Talend', 'Informatica', 'IICS', 'Datastage', 'Redshift', 'ODI', 'ETL', 'DWH', 'data warehouse']
 
 
 def get_desktop_client():
